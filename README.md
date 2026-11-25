@@ -1,16 +1,16 @@
-## Hi there 👋
+### Independent Analytical & Strategic Research Lab
 
-<!--
-**NyxPlutonica/NyxPlutonica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I investigate complex anomalies, structural signal patterns and forward-looking scenarios where standard metrics fall short. 
 
-Here are some ideas to get you started:
+This space serves as a curated archive of selected analytical models, data storytelling visuals and methodological frameworks, transitioning from historical post-mortem analysis to strategic forecasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus Areas:**
+* Complex Anomalies & Signal Detection
+* Strategic Forecasting & Option Mapping
+* Advanced Data Storytelling & Visual Models (Analytical Workflows)
+* Original Work & IP Framing Methodologies
+
+*Note:<br>
+Selected public studies are archived below.<br>
+Proprietary methodologies, client-specific models and active research pipelines remain in private repositories.*
+````
